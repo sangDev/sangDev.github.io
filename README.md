@@ -52,3 +52,5 @@
 	`yourdomain.me`
 
 8. Open up http://yourdomain.me, you should now see your website!
+
+# Credit to: @scarleth095
