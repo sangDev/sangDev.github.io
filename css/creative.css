@@ -96,7 +96,7 @@ aside {
     font-weight: 700;
     font-size: 13px;
     
-    background-color: rgb(134,114,90);
+    background-color: #fff; /*rgb(134,114,90);*/
     text-transform: uppercase;
     color: #000;
 
@@ -109,7 +109,7 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #fff;
+    color: #f05f40; /*#fff;*/
 }
 
 .navbar-default .navbar-header .navbar-brand {
